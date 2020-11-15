@@ -1,0 +1,8 @@
+*
+!.gitignore
+!foreman.py
+!foreman.ini
+!examples/*
+!ansible.cfg
+!sample.json
+!ansible-adhoc-sample.sh
